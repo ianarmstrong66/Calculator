@@ -32,10 +32,10 @@ public class calculatorTest {
 		Assert.assertEquals(12, result);
 	}
 	
-//	@Test
-//	public void modulateTwoNumbers() {
-//		Calculator calculator = new Calculator();
-//		int result = calculator.modulation(6,2);
-//		Assert.assertEquals(12, result);
-//	}
+	@Test
+	public void modulateTwoNumbers() {
+		Calculator calculator = new Calculator();
+		int result = calculator.modulation(6,2);
+		Assert.assertEquals(12, result);
+	}
 }
