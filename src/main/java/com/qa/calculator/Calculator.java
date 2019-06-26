@@ -30,4 +30,6 @@ public class Calculator {
 //		int result = number1 % number2;
 //		return result;
 //	}
+	
+	
 }
