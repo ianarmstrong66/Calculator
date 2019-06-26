@@ -25,11 +25,11 @@ public class Calculator {
 		return result;
 	}
 
-//	public int modulation(int number1, int number2) {
-//
-//		int result = number1 % number2;
-//		return result;
-//	}
+	public int modulation(int number1, int number2) {
+
+		int result = number1 % number2;
+		return result;
+	}
 	
 	
 }
